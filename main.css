@@ -45,6 +45,11 @@ h1{
     margin-left: 40%;
 }
 
+h2{
+    color: orange;
+    margin-left: 40%;
+}
+
 .row{
     border-left: 20%;
 }
@@ -99,3 +104,22 @@ button{
 .coloImage{
     color: orange; 
 }
+
+.fab.fa.facebook{
+    font-size:20px;
+}
+.fab.fa-github{
+    font-size:20px;
+}
+.fab.fa.linkedin{
+    font-size:20px; 
+}
+.lme{
+    background-color: orange;  
+    color: white;
+   
+}
+/*.forG{
+    border-radius:3%;
+    background-color: orange;
+}*/
